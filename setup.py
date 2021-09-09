@@ -7,7 +7,7 @@ setup(
   description = 'Test your packge',   # Give a short description about your library
   author = 'Vo Van Tu',                   # Type in your name
   author_email = 'tuvovan@inhandplus.com',      # Type in your E-Mail
-  url = 'https://github.com/tuvovan/test',   # Provide either the link to your github or to your website
+  url = 'https://github.com/tuvvdev/test',   # Provide either the link to your github or to your website
   download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    # I explain this later on
   keywords = ['TEST', 'PyPi', 'test'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
